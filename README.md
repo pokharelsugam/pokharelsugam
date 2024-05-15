@@ -1,16 +1,14 @@
-### Hi there 👋
+<html>
+<h1> About Me </h1>
 
-<!--
-**pokharelsugam/pokharelsugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👋 Hi, I’m Sugam Pokharel </h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>🎓 Graduated From Tribhuvan University in B.Sc. Microbiology </li>
+  <li>👀 I’m interested in Graphic desigining, Python Programming and Web development.</li>
+  <li>🌱 I’m currently working in a school</li>
+  <li>💞️ I’m looking to collaborate on ...</li>
+  <li>📫 You can reach me at <a href="https://pokharelsugam.com.np">https://pokharelsugam.com.np</a></li>
+  <li>💬 You can email me at <a href="mailto:contact@pokharelsugam.com.np">contact@pokharelsugam.com.np</a>
+</ul>
+</html>
